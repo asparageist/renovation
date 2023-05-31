@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  color: darkblue;
+  background-color: lightblue;
+}
+
+.float {
+  color: white;
+  width: 30%;
+  float: left;
+  background-color: blue;
+  border: 6px solid white;
+  border-radius: 14%;
+}
